@@ -1,0 +1,6 @@
+streamlit
+spacy
+gdown
+pyvis
+biopython
+openpyxl
